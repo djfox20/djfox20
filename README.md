@@ -11,9 +11,10 @@ I am building a practical AI/software portfolio around Python, machine learning,
 - Infrastructure, documentation, quality, and reliability
 - Network automation and cloud/AI learning
 
-## Featured project
+## Featured projects
 
 - [Dark Patterns Detector](https://github.com/djfox20/dark-patterns-detector) - Streamlit and scikit-learn NLP prototype for detecting scarcity and urgency language in e-commerce text.
+- [Aevum Aevi Asset Tracker](https://github.com/djfox20/aevum-aevi-asset-tracker) - AI-assisted Express and SQLite prototype for NFC-style asset tracking, scan workflows, activity history and operational reporting.
 
 ## Current direction
 
