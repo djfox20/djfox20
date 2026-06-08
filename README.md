@@ -14,7 +14,7 @@ I am building a practical AI/software portfolio around Python, machine learning,
 ## Featured projects
 
 - [CompTIA A+ Study (read + listen)](https://github.com/djfox20/comptia-a-plus-study) - Fact-checked CompTIA A+ study app with synchronized text and audio narration across 63 lessons. Built with a multi-agent content pipeline gated by an answer-from-lesson quality check; vanilla-JS frontend, Python build, edge-tts audio.
-- [Dark Patterns Detector](https://github.com/djfox20/dark-patterns-detector) - Streamlit and scikit-learn NLP prototype for detecting scarcity and urgency language in e-commerce text.
+- [Dark Patterns Detector](https://github.com/djfox20/dark-patterns-detector) - Machine-learning NLP prototype (Python, scikit-learn, Streamlit) for detecting scarcity and urgency language in e-commerce text.
 - [Aevum Aevi Asset Tracker](https://github.com/djfox20/aevum-aevi-asset-tracker) - AI-assisted Express and SQLite prototype for NFC asset tracking, scan workflows, activity history and operational reporting. [Live demo](https://aevum-aevi.com).
 
 ## Current direction
